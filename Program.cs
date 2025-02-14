@@ -5,6 +5,12 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Print();
+        }
+
+        static void Print()
+        {
+            Console.WriteLine(Console.ReadLine());
         }
     }
 }
