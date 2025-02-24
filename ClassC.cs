@@ -9,6 +9,12 @@ public class ClassC
 
 	public double CubeRoot(double a)
 	{
+		
+	}
+    public double BabylonMethod
+    {
+		double guess = number;
+    }
 		return a * a;
 	}
 
