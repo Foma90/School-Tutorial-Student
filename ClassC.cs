@@ -11,4 +11,9 @@ public class ClassC
 	{
 		return a * a;
 	}
+
+    public double CubeRoot(double a)
+    {
+        return a * a;
+    }
 }
